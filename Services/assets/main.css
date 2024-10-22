@@ -1,0 +1,125 @@
+.img1{
+    width: 200px;
+    height: 100px;
+}
+a{
+    font-family: "Saira Condensed", sans-serif !important;
+    font-weight: 700 !important;
+    font-weight: 600 !important;
+    font-style: normal;
+} 
+
+.button1{
+    width: 200px;
+    height: 50px;
+    color: #4586D5;
+    background-color: white;
+    border: 2px solid #fad110;
+    font-size: 24px;
+    margin-left: 10rem;
+}
+.button2{
+    width: 150px;
+    height: 50px;
+    background-color: #fad110;
+    border: none;
+    margin-top: 15px;
+}
+.button2:hover{
+    color: white;
+    transition: 0.5s;
+}
+.SpecialText{
+    position: absolute;
+    top: 23%;
+    left: 8%;
+}
+.SpecialText2{
+    width: 47%;
+    height: 300px;
+    background-color: white;
+}
+
+.TwoSec{
+    width: 50%;
+}
+.TwoSec2{
+    height: 500px;
+    background-color: #4586D5;
+}
+.TwoSec3{
+    width: 80%;
+    margin: 0 auto;
+}
+.button3{
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+    background-color: #fad110;
+    color: white;
+    border: none;
+}
+.imgs{
+    width: 50%;
+    height: 500px;
+    background-image: url(https://preview.colorlib.com/theme/hvacompany/img/quote-video.jpg.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgs2{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    color: white;
+    background-color: #4586D5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+footer{
+    width: 100%;
+    background-color: #142336;
+}
+i{
+    font-size: 20px;
+}
+.footerSec{
+    margin-top: 68px;
+    margin-left: 30px;
+}
+.foot4{
+    margin-left: 30px;
+}
+.foot3{
+    width: 30%;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.footerSec2{
+    margin-top: 15px;
+}
+.footerSec1{
+     margin-top: 30px;
+}
+.button4{
+    width: 140px;
+    height: 55px;
+    background-color: #fad110;
+    color: black;
+    margin-top: 20px;
+}
+
+.foot{
+    padding-bottom: 30px;
+    border-bottom: 1px solid grey;
+}
+
+.copyright{
+    margin-top: 30px;
+}
+.foot1{
+
+}
